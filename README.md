@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Age Calculator App Challenge
 
-## Getting Started
+## 📋 Table of Contents
 
-First, run the development server:
+- [👁️‍🗨️ Overview](#-overview)
+  - [🚀 Desafio](#-desafio)
+  - [🖼️ Screenshot](#️-screenshot)
+- [🔗 Links](#-links)
+- [🚀 Processo](#-processo)
+  - [🛠️ Construído com](#️-construído-com)
+- [🌐 Recursos Úteis](#-recursos-úteis)
+- [👤 Autor](#-autor)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👁️‍🗨️ Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🚀 Desafio
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Este projeto é uma solução para o [Age Calculator App no Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q).
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### 🖼️ Screenshot
 
-## Learn More
+![Screenshot do Projeto](/public//screenshot.png)
 
-To learn more about Next.js, take a look at the following resources:
+## 🔗 Links
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Solution URL: [Age Calculator App/Frontier Mentor](https://www.frontendmentor.io/solutions/pricing-component-with-togglenextjs-tailwinds-S_heyr5PPH)
+- Live Site URL: [Vercel App](https://pricing-component-with-toggle-pearl.vercel.app)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🚀 Processo
 
-## Deploy on Vercel
+### 🛠️ Construído com
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- HTML
+- CSS (utilizando Tailwind CSS)
+- Typescript (React with Nextjs)
+- Mobile First
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🌐 Recursos Úteis
+
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [Next.js Documentation](https://nextjs.org/docs)
+
+## 👤 Autor
+
+- Frontend Mentor - [@Barcaca](https://www.frontendmentor.io/profile/Barcaca)
+
+## 🎖️ Agradecimentos
+
+Agradeço ao Frontend Mentor por proporcionar desafios práticos.
