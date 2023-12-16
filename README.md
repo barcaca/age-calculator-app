@@ -23,8 +23,8 @@ Este projeto é uma solução para o [Age Calculator App no Frontend Mentor](htt
 
 ## 🔗 Links
 
-- Solution URL: [Age Calculator App/Frontier Mentor](https://www.frontendmentor.io/solutions/pricing-component-with-togglenextjs-tailwinds-S_heyr5PPH)
-- Live Site URL: [Vercel App](https://pricing-component-with-toggle-pearl.vercel.app)
+- Solution URL: [Age Calculator App/Frontier Mentor](https://www.frontendmentor.io/solutions/age-calculator-appnextjs-tailwinds-vbeDGNeJAc)
+- Live Site URL: [Vercel App](https://age-calculator-app-black.vercel.app)
 
 ## 🚀 Processo
 
